@@ -2,10 +2,11 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm adharsh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" width"100" src="https://cdn.dribbble.com/users/295247/screenshots/3268208/meet_cj.png"/ >
+
 
 
 <p align="left"> <a href="https://twitter.com/adarshamt" target="blank"><img src="https://img.shields.io/twitter/follow/adarshamt?logo=twitter&style=for-the-badge" alt="adarshamt" /></a> </p>
+<img align="right" alt="coding" width"100" src="https://cdn.dribbble.com/users/295247/screenshots/3268208/meet_cj.png"/ >
 
 - 🔭 I’m currently working on **E4U E-commerce platform**
 
