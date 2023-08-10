@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/adarshamt" target="blank"><img src="https://img.shields.io/twitter/follow/adarshamt?logo=twitter&style=for-the-badge" alt="adarshamt" /></a> </p>
-<img align="right" alt="coding" width"100" src="https://cdn.dribbble.com/users/295247/screenshots/3268208/meet_cj.png"/ >
+<img align="right" alt="coding" src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png"/ >
 
 - 🔭 I’m currently working on **E4U E-commerce platform**
 
