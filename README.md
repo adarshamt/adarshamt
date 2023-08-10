@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/adarshamt" target="blank"><img src="https://img.shields.io/twitter/follow/adarshamt?logo=twitter&style=for-the-badge" alt="adarshamt" /></a> </p>
-<img align="right" alt="coding" src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png"/ >
+<img align="right" alt="coding" src="https://camo.githubusercontent.com/a034f9ccd09e1d5f09cae408937e035d33fb1c616361f53a39bd050ab68d1b67/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966"/ >
 
 - 🔭 I’m currently working on **E4U E-commerce platform**
 
