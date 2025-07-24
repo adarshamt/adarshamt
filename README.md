@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://twitter.com/adarshamt" target="blank"><img src="https://img.shields.io/twitter/follow/adarshamt?logo=twitter&style=for-the-badge" alt="adarshamt" /></a> </p>
 <img align="right" alt="coding" src="https://cdn3.vectorstock.com/i/thumb-large/75/67/programmer-computer-expert-chalk-white-icon-vector-37237567.jpg"/ >
 
-- 🔭 I’m currently working on **E4U E-commerce platform**
+- 🔭 I’m currently working on **V-Traker -- Client Management App**
 
-- 🌱 I’m currently learning **react,redux,express**
+- 🌱 I’m currently learning **react,express,Mogodb**
 
-- 💬 Ask me about **javaScript,react**
+- 💬 Ask me about **javaScript,react,html,css,nodejs,expressjs,bootstrap,jquery**
 
 - 📫 How to reach me **adarashamt@gmail.com**
 
